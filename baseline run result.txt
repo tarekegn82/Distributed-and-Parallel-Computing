@@ -1,0 +1,78 @@
+[a2018080701016@cu01 ~]$ mpiexec -np 1 ./baseline 1000000
+There are 78498 primes less than or equal to 1000000
+SIEVE (1)   0.003623
+[a2018080701016@cu01 ~]$ mpiexec -np 1 ./baseline 1000000
+There are 78498 primes less than or equal to 1000000
+SIEVE (1)   0.003389
+[a2018080701016@cu01 ~]$ mpiexec -np 1 ./baseline 1000000
+There are 78498 primes less than or equal to 1000000
+SIEVE (1)   0.003418
+[a2018080701016@cu01 ~]$ mpiexec -np 1 ./baseline 1000000
+There are 78498 primes less than or equal to 1000000
+SIEVE (1)   0.003388
+[a2018080701016@cu01 ~]$ mpiexec -np 1 ./baseline 1000000
+There are 78498 primes less than or equal to 1000000
+SIEVE (1)   0.003552
+[a2018080701016@cu01 ~]$ 
+[a2018080701016@cu01 ~]$ mpiexec -np 2 ./baseline 1000000
+There are 78498 primes less than or equal to 1000000
+SIEVE (2)   0.002049
+[a2018080701016@cu01 ~]$ mpiexec -np 2 ./baseline 1000000
+There are 78498 primes less than or equal to 1000000
+SIEVE (2)   0.001954
+[a2018080701016@cu01 ~]$ mpiexec -np 2 ./baseline 1000000
+There are 78498 primes less than or equal to 1000000
+SIEVE (2)   0.001958
+[a2018080701016@cu01 ~]$ mpiexec -np 2 ./baseline 1000000
+There are 78498 primes less than or equal to 1000000
+SIEVE (2)   0.001960
+[a2018080701016@cu01 ~]$ mpiexec -np 2 ./baseline 1000000
+There are 78498 primes less than or equal to 1000000
+SIEVE (2)   0.002098
+[a2018080701016@cu01 ~]$ mpiexec -np 4 ./baseline 1000000
+There are 78498 primes less than or equal to 1000000
+SIEVE (4)   0.001058
+[a2018080701016@cu01 ~]$ mpiexec -np 4 ./baseline 1000000
+There are 78498 primes less than or equal to 1000000
+SIEVE (4)   0.001089
+[a2018080701016@cu01 ~]$ mpiexec -np 4 ./baseline 1000000
+There are 78498 primes less than or equal to 1000000
+SIEVE (4)   0.001104
+[a2018080701016@cu01 ~]$ mpiexec -np 4 ./baseline 1000000
+There are 78498 primes less than or equal to 1000000
+SIEVE (4)   0.001379
+[a2018080701016@cu01 ~]$ mpiexec -np 4 ./baseline 1000000
+There are 78498 primes less than or equal to 1000000
+SIEVE (4)   0.001046
+[a2018080701016@cu01 ~]$ mpiexec -np 8 ./baseline 1000000
+There are 78498 primes less than or equal to 1000000
+SIEVE (8)   0.001194
+[a2018080701016@cu01 ~]$ mpiexec -np 8 ./baseline 1000000
+There are 78498 primes less than or equal to 1000000
+SIEVE (8)   0.000678
+[a2018080701016@cu01 ~]$ mpiexec -np 8 ./baseline 1000000
+There are 78498 primes less than or equal to 1000000
+SIEVE (8)   0.000715
+[a2018080701016@cu01 ~]$ mpiexec -np 8 ./baseline 1000000
+There are 78498 primes less than or equal to 1000000
+SIEVE (8)   0.000695
+[a2018080701016@cu01 ~]$ mpiexec -np 8 ./baseline 1000000
+There are 78498 primes less than or equal to 1000000
+SIEVE (8)   0.000702
+[a2018080701016@cu01 ~]$ 
+[a2018080701016@cu01 ~]$ mpiexec -np 16 ./baseline 1000000
+There are 78498 primes less than or equal to 1000000
+SIEVE (16)   0.000592
+[a2018080701016@cu01 ~]$ mpiexec -np 16 ./baseline 1000000
+There are 78498 primes less than or equal to 1000000
+SIEVE (16)   0.000562
+[a2018080701016@cu01 ~]$ mpiexec -np 16 ./baseline 1000000
+There are 78498 primes less than or equal to 1000000
+SIEVE (16)   0.047005
+[a2018080701016@cu01 ~]$ mpiexec -np 16 ./baseline 1000000
+There are 78498 primes less than or equal to 1000000
+SIEVE (16)   0.000583
+[a2018080701016@cu01 ~]$ mpiexec -np 16 ./baseline 1000000
+There are 78498 primes less than or equal to 1000000
+SIEVE (16)   0.000593
+[a2018080701016@cu01 ~]$ 
