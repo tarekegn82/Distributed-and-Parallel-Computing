@@ -1,1 +1,1 @@
-# Distributed-and-Parallel-Computing
+# Distributed-and-Parallel-Computing-MPI
